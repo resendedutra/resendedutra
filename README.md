@@ -29,6 +29,3 @@ Acredito no poder da tecnologia para transformar desafios em oportunidades e bus
 <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/bd68103b-a624-4955-9185-e7055da50f8a" />
 
 ---
-
-[Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=aresendedutra)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=resendedutra)](https://github.com/anuraghazra/github-readme-stats)
